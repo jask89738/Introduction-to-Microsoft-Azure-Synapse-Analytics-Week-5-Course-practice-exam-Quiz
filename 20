@@ -1,0 +1,112 @@
+Introduction to Microsoft Azure Synapse Analytics Week 5 | Course practice exam Quiz Answers
+ 
+
+Course practice exam Quiz Answers
+Question 1)
+Which of the following offerings in Synapse Analytics is suitable for unplanned or ad-hoc workloads?
+
+Azure Synapse dedicated SQL pools
+Azure Synapse Pipelines
+Azure Synapse serverless SQL pools
+Question 2)
+You need to answer the question of “What is likely to happen in the future based on previous trends and patterns?”. Which one of the following types of analytics should you use?
+
+Predictive
+Diagnostic
+Prescriptive
+Descriptive
+Question 3)
+An Azure Synapse Analytics workspace stores data in which of the following?
+
+Apache Spark Tables
+Azure SQL Database
+CosmosDB Tables
+Azure Data Lake Storage Gen2
+Question 4)
+Creating dedicated SQL pools to reserve processing power for data permanently stored in SQL tables in order to ensure predictable performance and cost is a type of model applied to which of the following?
+
+Data virtualization
+Data warehousing
+Question 5)
+You can create a new Spark pool in Azure Synapse using which three of the following features?
+
+JSON
+Azure Portal
+Azure PowerShell
+Synapse Analytics .Net SDK
+Question 6)
+You are working in Azure Synapse Analytics, and you have a requirement to ingest data from a data source in readiness to prepare the data for transformation and analysis. Which feature should you implement to enable the ingestion of the data from a data source?
+
+SQL Pool
+Datasets
+Spark pool
+Linked Service
+Question 7)
+Which Azure Service is Azure Synapse Pipelines based on?
+
+Azure Stream Analytics
+Azure Data Factory
+Azure Data Explorer
+Question 8)
+Which Azure Synapse Studio hub would you go to create Notebooks?
+
+Integrate hub
+Develop hub
+Data hub
+Manage hub
+Question 9)
+You have recently deployed Azure Synapse Analytics. You now need to ingest data code-free. Which of the following tools can be used to perform this task?
+
+Azure Databricks
+Azure Data Factory
+Power BI
+Question 10)
+When building data flows in Azure Synapse you enable debug mode. What does debug mode activate?
+
+A Spark cluster
+A serverless cluster
+A dedicated SQL Pool
+ 
+
+Question 3)
+A data warehouse provides which of the following?
+
+A central repository of data stored in a nonrelational database.
+A repository of data distributed across multiple instances of Azure SQL.
+A central repository of data stored in relational tables.
+Question 4)
+Data within a data warehouse is retrieved, cleansed, and transformed from a range of source data systems, and then served in a structured relational format commonly referred to as which one of the following?
+
+Snowflake Schema
+Star Schema
+Fact table
+Dimension Table
+Question 6)
+You can access the Power BI Workspace from within Azure Synapse Studio through which hub?
+
+Develop hub
+Data hub
+Manage hub
+Integrate hub
+Question 7)
+What term do we use to refer to the ability to perform analytics over a database system that is seen to provide transactional capabilities without impacting the performance of the system itself?
+
+Hybrid Transactional and Analytical processing (HTAP)
+Data Visualization
+Data Virtualization
+Data Warehousing
+Question 10)
+Which four of the following data formats are natively supported by Synapse Analytics when ingesting raw data in batch from new data sources? Choose all that apply
+
+Parquet
+JSON
+Scala
+CSV
+ORC
+Question 8)
+Which hub in Azure Synapse Studio is used to view the status of the various integration runtimes that are running, or to view Apache Spark jobs and data flow debug activities?
+
+Integrate hub
+Manage hub
+Develop hub
+Monitor hub
